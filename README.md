@@ -16,7 +16,7 @@ CamouImageSet is a large‑scale synthesized camouflage dataset for camouflaged 
 - Diverse object categories and complex background textures
 - Filtered by multi‑dimensional quantitative metrics (ICS, GCC, LCC, BndVis, Aes) and BLIP‑2 semantic validation to guarantee camouflage quality
 
-You can download the CamouImageSet dataset via the provided link.
+You can download the CamouImageSet dataset via the provided link: <https://pan.baidu.com/s/1bjCiK98esZ_v6eQ68zhUow?pwd=wpwb>.
 After downloading, unzip the files and place them into your target dataset directory for training and evaluation.
 
 > Dataset statistics and comparisons against existing COD benchmarks are reported in our paper.
